@@ -1,0 +1,30 @@
+.contenedor {
+
+    display: flex;
+}
+
+
+.imagen {
+    width: 300px;
+    margin-right: 250px
+}
+
+.textos {
+    margin-right: 100px;
+    align-self: center;
+    
+}
+
+.textof {
+    color: red;
+    
+}
+.textos1 {
+    margin-right: 100px;
+    align-self: center;
+    
+}
+.imagen1 {
+    width: 450px;
+    margin-right: 350px
+}
